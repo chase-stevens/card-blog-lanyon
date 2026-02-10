@@ -1,0 +1,70 @@
+---
+layout: post
+title: A Look At Legends - Ragnaros
+---
+
+Let's talk about an iconic, legendary card that help kick off Hearthstone's first set of cards -- Ragnaros the Firelord.
+
+![Ragnaros, the Firelord](/assets/images/ragnaros-the-firelord.webp)
+
+Let's break down this card by its attributes.
+
+The name and art of this card, as well as its legendary frame, tell the player that this entity is powerful. A formal name followed by a title can communicate that this card is a known figure of renown.
+
+Also, *Firelord* is a pretty awesome title.
+
+The art does an amazing job of showing this lord in action. The massive proportions of the chest, arms, hands, and hammer help show that Ragnaros is a titan of a card.
+
+Also he's engulfed in flames. Or, rather, composed of flames.
+
+The pose has a fluid sense of motion, like he's about to bring his hammer down.
+
+
+
+The mana cost, power, and health of this minion are all symmetrical at a value of 8.
+
+For cards with symmetrical costs and attack/defense stats, the numbers 1-5 can be used symmetrically. The players will notice, but most likely chalk up the card to being quite balanced and even.
+
+Symmetrical numbers between 6-10 (and beyond) are much more noticible. 
+
+The number 6 used three times (666) refers to Satan, or the devil, in western culture. This can imply a demonic nature, or perhaps a card with a large upside, but bigger downside (like selling your soul to the devil).
+
+On the other hand, the number 7 used multiple times is associated with gambling, specifically three lucky 7s winning a jackpot at a slot machine. A card with multiple 7s can be used with a card that incorporates a lot of randomness or chance, especially with an ability that can be used multiple times.
+
+Here, the number 8 stands out because it is quite a large number. Keep in mind that the ceiling for a card's mana cost in Hearthstone is 10 (unless there is a card designed with a cost reduction mechanic, like Molten Giant).
+
+
+Let's talk about Ragnaros's abilities. So far, we have a gigantic fire titan swinging its hammer down, and we have defined in the game system that this is an expensive and strong monster.
+
+*Can't attack*. 
+
+Not off to a good start.
+
+*At the end of your turn, deal 8 damage to a random enemy.*
+
+Now we get to the meat and potatoes of Ragnaros. Instead of having a creature that attacks a target of your choosing and dealing 8 damage, and receiving damage from that creature, Ragnaros instead blasts a random target with 8 damage, and takes no damage back.
+
+Mechanically, these two abilities have huge upside, and potentially some downside. The natural first instinct is to say that having a random target is quite terrible. You could obliterate some squirrel or insect, or something else that has one health and gets overkilled.
+
+However, the upside is that Ragnaros now deals damage without receiving damage back.
+
+You can also manage the downside by taking actions to eliminate the smallest targets, leaving only large minions, or even the opponent's face, open for Ragnaros to blast.
+
+If the enemy wants to kill Ragnaros with their own minions, Ragnaros will retaliate back.
+
+The design of its ability, and the random nature, led to moments of tension, joy, and frustration. There are many clips online showing the build up to a scenario that leads to an XX% chance of winning, then hearing's Ragnaros's voicelike, "BY FIRE BE PURGED!", then watching the fireball go to the opponent's face and close out the game.
+
+One important aspect of this ability is that it works best in a digital environment. If you were playing a tabletop card game like Magic, you could assign each creature that opponent had to a number, then roll a die to determine the outcome, but the process is cumbersome, clunky, and vague (what if opponent has more permanents than sides of your die?). Here, the game is able to automate the randomness check and reveal the result in an exciting moment that has both players on the edge of their seats.
+
+Ragnaros's ability has a hidden upside as well. For context, one ability in Hearthstone is called *Silence* -- you can remove a card's textbox or ongoing abilities. Normally, for a card with a strong ability, this would be great. However, if you silence Ragnaros, yes you will stop eight damage coming at you every turn, but now it can attack again, meaning that it's now an everyday 8/8.
+
+Note: Yes, the image shown and the current version of the card in Hearthstone has a minion type of *Elemental*. This was added in a later update, and was not present upon its initial release. I'll eschew analysis of the minion type for now, so that we can talk about this mechanic in more detail later.
+
+Flavorwise, the mechanics capture the feeling of summoning a powerful firelord. It's strong, it's tempermental, it's passionate, and it's probably not going to listen to you.
+
+In the lore of Warcraft, a faction of dwarves summoned Ragnaros in an attempt to use it in their ongoing war. This quickly backfired and Ragnaros subjugated this faction of dwarves to serve his whims.
+
+Ragnaros, the Firelord as a Hearthstone card won't turn on you in quite the same fashion, but it is made clear that it won't listen to you and you can't issue it commands.
+
+Ragnaros, the Firelord left quite an impression on players and designers. It's come back in a few forms, though none quite as popular or impactful as the original. It's strength, flavor, and the ability to close out games in style led to Ragnaros seeing play in many decks.
+
