@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Look at Legends - Grapha, Dragon Lord of Dark World
-published: true
+published: false
 ---
 
 Let's take a look at a legendary card from YuGiOh -- Grapha, Dragon Lord of Dark World.
