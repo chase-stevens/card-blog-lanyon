@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome to the Card Collection
+published: false
 ---
 
 Welcome to the Card Collection! This here is a blog examining one of the most foundational and formative game components - the card.

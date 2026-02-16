@@ -234,6 +234,11 @@ img {
   border-radius: 5px;
 }
 
+img.my-class {
+  max-width: 20rem;
+  margin: 0 auto;
+}
+
 /* Tables */
 table {
   margin-bottom: 1rem;
