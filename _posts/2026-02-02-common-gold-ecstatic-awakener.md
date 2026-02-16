@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Common Gold - Ecstatic Awakener'
+published: false
 ---
 
 - One Mana

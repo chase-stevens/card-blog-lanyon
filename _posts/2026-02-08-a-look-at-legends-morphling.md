@@ -5,26 +5,27 @@ title: A Look at Legends - Morphling
 
 Let's take a look at a legendary card from Magic the Gathering -- Morphling.
 
-![Morphling](/assets/images/usg-85-morphling.jpg)
+![Morphling](/assets/images/usg-85-morphling.jpg){:.my-class}
 
-The story goes that during the design of the Urza's Block set, the Rules team couldn't figure out how to make a card that cloned another card worked with the current rules. The problem was that the art was already commissioned, so the design team had to come up with something quick. The end result was Morphling.
+<!--more-->
 
-Analyzing the card, 
+Morphling is a five mana creature with sub-par stats. But don't let that fool you, as this card is so strong that it earned the moniker *Superman* for its strength in its prime.
 
-What if this was printed with Flying, Vigilance, Shroud, and 0: This creatures gets +1/-1 or -1/+1 until end of turn? It would certainly be stronger. It would probably also cost more mana to cast, which could make it less playable. 
+Morphling's origin story goes that during the design of the Urza's block set, a collection of cards from the early days of Magic, the Rules team couldn't figure out how to make a card that cloned another card worked with the current rules. The problem was that the art for the clone card was already commissioned, so the design team had to come up with something quick. The end result was Morphling.
+
+When we analyze the card, the first thing that jumps out is that all of the abilities of Morphling have a cost to turn them on.
+
+What if this was printed with permanent abilties like Flying, Vigilance, Shroud, and had its Morphing ability be free? Something like `0: This creatures gets +1/-1 or -1/+1 until end of turn`? It would certainly be stronger. It would probably also cost more mana to cast, which could make it less playable. 
 
 My hunch is that by making these abilities free, not only would Morphling be more expensive, but it would also be less fun. By having each ability have a cost and an activation, Morphling exists as a sort of Schrödinger's creature. It doesn't have flying, until it has flying. It can be targeted, until it can't be targeted. It's a 3/3, until it's a 5/1, or a 0/6.
 
-Let's say a player taps five of their six islands to cast and resolve Morphling (you want to make sure you can make it not targetable). Opponent passes their turn, and the Morphling controller untaps. Now, with six blue mana available, Morphling can becomes one of many different permutations
+Let's say a player taps five of their six islands to cast and resolve Morphling (you want to make sure you can make it not targetable). Opponent passes their turn, and the Morphling controller untaps. Now, with six blue mana available, Morphling can becomes one of many different permutations:
 - Non-Flying or Flying
 - Non-Shroud or Shroud
 - Tapped or Untapped
 - One of six different statlines (5/1, 4/2, 3/3, 2/4, 1/5, or 0/6)
 
 Resulting in 48 different states for Morphling simply by activating its abilities. Hence the Morph of Morphling -- this card can shapeshift into whatever is needed for the situtation.
-
-
-Legacy
 
 As much heap and praise as I want to place upon Morphling, I do admit that it is not the first creature to have a shifting stat line. It appears that a six mana green create named Shambling Stride, printed in 1995, allowed exchanging 1 toughness for 1 power for a red and a green mana. It has nowhere near the flexibility and fun of Morphling, but it did allow for a bigger punch if left unchecked.
 

@@ -6,7 +6,9 @@ published: true
 
 Let's take a look at a legendary card from YuGiOh -- Grapha, Dragon Lord of Dark World.
 
-![Grapha, Dragon Lord of Dark World](/assets/images/GraphaDragonLordofDarkWorld-SR13-EN-C-1E.png)
+![Grapha, Dragon Lord of Dark World](/assets/images/GraphaDragonLordofDarkWorld-SR13-EN-C-1E.png){:.my-class}
+
+<!--more-->
 
 Looking at the card,
 
