@@ -3,7 +3,7 @@ title:               Bricks and Cantrips
 tagline:             'A deep dive into card game design'
 description:         'Bricks and Cantrips - A deep dive into card game design'
 url:                 https://chase-stevens.github.io/card-blog-lanyon/
-baseurl:             ''
+baseurl:             https://chase-stevens.github.io/card-blog-lanyon/
 paginate:            5
 permalink:           pretty
 
