@@ -2,15 +2,15 @@
 title:               Bricks and Cantrips
 tagline:             'A deep dive into card game design'
 description:         'Bricks and Cantrips - A deep dive into card game design'
-url:                 https://chase-stevens.github.io/card-blog-lanyon/
-baseurl:             https://chase-stevens.github.io/card-blog-lanyon/
+url:                 https://bricksandcantrips.com
+baseurl:             ''
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
   name:              Chase Stevens
-  url:               https://chase-stevens.github.io/card-blog-lanyon/
+  url:               https://bricksandcantrips.com
   email:             chasestevenspersonal+bricksandcantrips@gmail.com
 
 # Gems
