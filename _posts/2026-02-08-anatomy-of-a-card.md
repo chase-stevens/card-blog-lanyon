@@ -24,6 +24,16 @@ If you know the answer to the question, let me know at chasestevenspersonal+bric
 
 Frames are made early and often. Hearthstone, Blizzard's digital card game, shipped with frames for each class, as well as neutral cards. A dragon sat around the outside of the art to indicate legendary cards as well -- a clever modular piece of the frame.
 
+Frames are used in Pokemon as well to indicate pokemon type (grass, fire, water, etc), as well as card type (supporter, item, etc).
+
+Frames are great for giving players the ability to scan the battlefield and get a sense of what's happening. One element that frames use is color, which can give the information as to what the type of card is. The frame's color is usually muted and subdued -- it itself is not the star of the show, but should be contrasted with the main art of the card. The illustration should be the star of the show, and the frame but a backdrop.
+
+#### Title
+Every card has a name. It would be hard to work through a game with hundreds, or even thousands, of cards otherwise.
+
+The title is the first piece of a card that a player will read. It can give a large impression of the card itself. Is it small? Grand? Clever? Noble? Ambitious?
+
+
 
 generic
 border
