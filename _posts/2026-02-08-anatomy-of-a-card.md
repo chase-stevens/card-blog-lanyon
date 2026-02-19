@@ -1,12 +1,16 @@
 ---
 layout: post
 title: Anatomy of a Card
-published: false
+published: true
 ---
 
 We talk a lot about cards here. But what exactly is a card?
 
+At best, a card will unify all its elements together to form a cohesive playing piece with a strong flavor and mechanics to deliver a strong gameplay experience.
+
 Different card games will have different attributes, layouts, and data. However, across different card games, several common attributes arise.
+
+<!--more-->
 
 #### Border
 Starting from the outside in, we make note of the border of the card. The border is often invisible and unobserved. The contents of the card often grab the player's attention. However, several games make use of the border to indicate game rules, such as silver border cards in Magic the Gathering indicating an un-card that is not legal in most formats.
@@ -33,7 +37,22 @@ Every card has a name. It would be hard to work through a game with hundreds, or
 
 The title is the first piece of a card that a player will read. It can give a large impression of the card itself. Is it small? Grand? Clever? Noble? Ambitious?
 
+When naming a card, the shorter the better. Also consider that a name that is too long with have to squish its letters together, or have the name cut off.
 
+#### Art
+Ahh, the art of the card. This is the most important and most impactful part of the card, and the one that will tell the story of the card the most.
+
+Art for cards has a few unique requirements. The art must be understandable and readable from a distance, and in small dimensions. A card is usually 2.5"x3.5", and the art itself may take up less than half that space.
+
+The art must also highlight and communicate a central idea. For a card that's a creature or monster, the subject of the art is clear. But what about a card that describes a spell, like a fireball or lightning bolt?
+
+![Divination](/assets/images/m19-51-divination.jpg){:.my-class}
+
+I want to stress the importance of good art. 
+
+#### Gameplay Details
+
+NOTE: This can be split into two sections. One being the main body of text that is the abilities, the other being type specific or game specific like power/toughness and cost
 
 generic
 border
