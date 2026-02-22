@@ -239,6 +239,25 @@ img.my-class {
   margin: 0 auto;
 }
 
+img.double-line {
+  display: inline-block;
+  max-width: calc(50% - 0.63rem);
+  margin: 0 0.25rem 1rem;
+  vertical-align: top;
+}
+
+.double-line-wrapper {
+  display: flex;
+  gap: 1rem;
+  margin: 0 0 1rem;
+}
+
+.double-line-wrapper img {
+  width: 50%;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
 /* Tables */
 table {
   margin-bottom: 1rem;
