@@ -54,8 +54,6 @@ Explosive Runes is the most verbose I could find after a quick scan, with its ab
 
 Compare this to a few cards from Magic the Gathering's latest core set.
 
-![Abyssal Harvester](/assets/images/fdn-54-abyssal-harvester.jpg){:.my-class}
-
 <div class="double-line-wrapper">
   <img src="/assets/images/fdn-54-abyssal-harvester.jpg" alt="Abyssal Harvester">
   <img src="/assets/images/fdn-1-sire-of-seven-deaths.png" alt="Sire of Seven Deaths">
