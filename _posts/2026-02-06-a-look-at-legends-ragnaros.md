@@ -68,5 +68,7 @@ In the lore of Warcraft, a faction of dwarves summoned Ragnaros in an attempt to
 
 Ragnaros, the Firelord as a Hearthstone card won't turn on you in quite the same fashion, but it is made clear that it won't listen to you and you can't issue it commands.
 
-Ragnaros, the Firelord left quite an impression on players and designers. It's come back in a few forms, though none quite as popular or impactful as the original. Its strength, flavor, and the ability to close out games in style led to Ragnaros seeing play in many decks. And it helped Hearthstone land on the scene with a bang.
+Ragnaros, the Firelord left quite an impression on players and designers. It's come back in a few different cards, though none quite as popular or impactful as the original. In fact, I recently signed up for a new free-to-play Hearthstone account, and my first deck had a copy of Ragnaros on it.
+
+Its strength, flavor, and the ability to close out games in style led to Ragnaros seeing play in many decks. And it helped Hearthstone land on the scene with a bang.
 
