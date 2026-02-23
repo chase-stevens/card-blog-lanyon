@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Anatomy of a Card
-published: true
+published: false
 ---
 
 We talk a lot about cards here. But what exactly is a card?

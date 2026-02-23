@@ -46,7 +46,7 @@ Where does the fun come from?
 
 The core of Grapha, and Dark World's, mechanics come from how they transform discarding, usually a painful cost or punishment in a card game, into a core gameplay mechanic, triggering abilities and graveyard synergies.
 
-Grapha is a boss monster, with multiple abilities rolled into one. A simpler version, like Goldd or Sillva, has a strong attack balue of 2300, and when it is discarded, it is instead special summoned to the battlefield. You exchange power, removal, and recursion in exchange for quicker and more reliable board presense.
+Grapha is a boss monster, with multiple abilities rolled into one. A simpler version, like Goldd or Sillva, has a strong attack value of 2300, and when it is discarded, it is instead special summoned to the battlefield. You exchange power, removal, and recursion in exchange for quicker and more reliable board presense.
 
 Remember, YuGiOh has virtually no resources to manage. Whatever cards you come across in your hand, you can most likely play that turn.
 
