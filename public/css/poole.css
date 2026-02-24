@@ -258,6 +258,19 @@ img.double-line {
   border-radius: 5px;
 }
 
+.triple-double-wrapper {
+  display: flex;
+  gap: 1rem;
+  margin: 0 0 1rem;
+}
+
+.triple-double-wrapper img {
+  width: 33%;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+
 /* Tables */
 table {
   margin-bottom: 1rem;
