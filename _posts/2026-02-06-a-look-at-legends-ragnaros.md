@@ -23,13 +23,14 @@ The name and art of this card, as well as its legendary frame, tell the player t
 
 The art does an amazing job of showing this lord in action. The pose has a fluid sense of motion, like he's about to bring his hammer down. The massive proportions of the chest, arms, hands, and hammer help show that Ragnaros is an absolute titan. Also he's engulfed in flames. Or, rather, composed of flames.
 
-When we start to look at the metrics and mechanics of the card, we continue to see that this is an endgame thread.
+When we start to look at the metrics and mechanics of the card, we continue to see that this is an endgame threat.
 
+## Symmetry
 The mana cost, power, and health of this minion are all symmetrical at a value of 8.
 
 For cards with symmetrical costs and attack/defense stats, the numbers 1-5 can be used easily. The players will notice, but most likely chalk up the card to being quite balanced and even.
 
-Symmetrical numbers between 6-10 (and beyond) are much more noticible. 
+Symmetrical numbers between 6-10 (and beyond) are much more noticible, and can communicate meaning.
 
 The number 6 used three times (666) refers to Satan, or the devil, in western culture. This can imply a demonic nature, or perhaps a card with a large upside, but bigger downside (like selling your soul to the devil).
 
@@ -37,8 +38,19 @@ On the other hand, the number 7 used multiple times is associated with gambling 
 
 Here, the number 8 stands out because it is quite a large number. Keep in mind that the ceiling for a card's mana cost in Hearthstone is 10 (unless there is a card designed with a cost reduction mechanic, like Molten Giant).
 
+The symmetry provides balance and order to the card as well. It's simply pleasing to see an 8 mana card with 8 attack and 8 health deal 8 damage.
+
+A classic example of breaking symmetry is the demon Griselbrand from Magic the Gathering.
+![Griselbrand](/assets/images/phel-106-griselbrand.jpg){:.my-class}
+
+The demon has 7 power, 7 toughness, and an ability to pay 7 life and draw 7 cards, and it costs (*checks notes*) 8 mana?
+
+It seems like a small thing, but it affects the game feel of the card to have something slightly off-tuned. Could you imagine if Ragnaros's ability did 7 damage?
+
+Ragarnos is symmetrical across all its stats, but the symmetry between its attack and its ability are perhaps the most important. Flavorwise, this gives the player the feeling that Ragnaros is using a special attack, or throwing its hammer, or something similar to attacking, while avoiding damage. Mechanically, this helps remove complexity and things to track by allowing the player to remember that Raganros deals 8 damage, whether by ability ot attacking.
+
 ## Gameplay
-Let's talk about Ragnaros's abilities. So far, we have a gigantic fire titan swinging its hammer down, and we have defined in the game system that this is an expensive and strong monster.
+Let's dive into Ragnaros's abilities further. So far, we have a gigantic fire titan swinging its hammer down, and we have defined in the game system that this is an expensive and strong monster.
 
 *Can't attack*. 
 
