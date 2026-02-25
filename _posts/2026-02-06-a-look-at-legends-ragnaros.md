@@ -18,17 +18,19 @@ Each class had access to 25 unique class cards, but only one legendary. If a pla
 
 It is from this pool of neutral legendary cards that we come to meet Ragnaros the Firelord.
 
-The name and art of this card, as well as its legendary frame, tell the player that this entity is powerful. A formal name followed by a title can communicate that a card is a known figure of renown. For what it's, *Firelord* is a pretty awesome title.
+## Flavor
+The name and art of this card, as well as its legendary frame, tell the player that this entity is powerful. A formal name followed by a title can communicate that a card is a known figure of renown. For what it's worth, *Firelord* is a pretty awesome title.
 
 The art does an amazing job of showing this lord in action. The pose has a fluid sense of motion, like he's about to bring his hammer down. The massive proportions of the chest, arms, hands, and hammer help show that Ragnaros is an absolute titan. Also he's engulfed in flames. Or, rather, composed of flames.
 
-When we start to look at the metrics and mechanics of the card, we continue to see that this is an endgame thread.
+When we start to look at the metrics and mechanics of the card, we continue to see that this is an endgame threat.
 
+## Symmetry
 The mana cost, power, and health of this minion are all symmetrical at a value of 8.
 
 For cards with symmetrical costs and attack/defense stats, the numbers 1-5 can be used easily. The players will notice, but most likely chalk up the card to being quite balanced and even.
 
-Symmetrical numbers between 6-10 (and beyond) are much more noticible. 
+Symmetrical numbers between 6-10 (and beyond) are much more noticible, and can communicate meaning.
 
 The number 6 used three times (666) refers to Satan, or the devil, in western culture. This can imply a demonic nature, or perhaps a card with a large upside, but bigger downside (like selling your soul to the devil).
 
@@ -36,7 +38,19 @@ On the other hand, the number 7 used multiple times is associated with gambling 
 
 Here, the number 8 stands out because it is quite a large number. Keep in mind that the ceiling for a card's mana cost in Hearthstone is 10 (unless there is a card designed with a cost reduction mechanic, like Molten Giant).
 
-Let's talk about Ragnaros's abilities. So far, we have a gigantic fire titan swinging its hammer down, and we have defined in the game system that this is an expensive and strong monster.
+The symmetry provides balance and order to the card as well. It's simply pleasing to see an 8 mana card with 8 attack and 8 health deal 8 damage.
+
+A classic example of breaking symmetry is the demon Griselbrand from Magic the Gathering.
+![Griselbrand](/assets/images/phel-106-griselbrand.jpg){:.my-class}
+
+The demon has 7 power, 7 toughness, and an ability to pay 7 life and draw 7 cards, and it costs (*checks notes*) 8 mana?
+
+It seems like a small thing, but it affects the game feel of the card to have something slightly off-tuned. Could you imagine if Ragnaros's ability did 7 damage?
+
+Ragarnos is symmetrical across all its stats, but the symmetry between its attack and its ability are perhaps the most important. Flavorwise, this gives the player the feeling that Ragnaros is using a special attack, or throwing its hammer, or something similar to attacking, while avoiding damage. Mechanically, this helps remove complexity and things to track by allowing the player to remember that Ragnaros deals 8 damage, whether by ability ot attacking.
+
+## Gameplay
+Let's dive into Ragnaros's abilities further. So far, we have a gigantic fire titan swinging its hammer down, and we have defined in the game system that this is an expensive and strong monster.
 
 *Can't attack*. 
 
@@ -44,15 +58,15 @@ Not off to a good start.
 
 *At the end of your turn, deal 8 damage to a random enemy.*
 
-Now we get to the meat and potatoes of Ragnaros. Instead of having a creature that attacks a target of your choosing and dealing 8 damage, and receiving damage from that creature, Ragnaros instead blasts a random target with 8 damage, and takes no damage back. This last part is important -- in Hearthstone, damage is permanent. If you attack something, it will attack back. Ragnaros can blast away with impunity, since it does not aattack.
+Now we get to the meat and potatoes of Ragnaros. Instead of having a creature that attacks a target of your choosing and dealing 8 damage, and receiving damage from that creature, Ragnaros instead blasts a random target with 8 damage, and takes no damage back. This last part is important -- in Hearthstone, damage is permanent. If you attack something, it will attack back. Ragnaros can blast away with impunity, since it does not attack.
 
 Mechanically, these two abilities have huge upside, and potentially some downside. The natural first instinct is to say that having a random target is quite terrible. You could obliterate some squirrel or insect, or something else that has one health and gets overkilled.
 
 However, the upside is that Ragnaros now deals damage without receiving damage back.
 
-You can also manage the downside by taking actions to eliminate the smallest targets, leaving only large minions, or even the opponent's face, open for Ragnaros to blast.
+If the enemy wants to kill Ragnaros with their own minions, Ragnaros will retaliate back, as per Hearthstone's combat rules (when minions attack, their target will attack back). This means that you have a giant minion that can deal damage with impunity, and your opponent will be forced to spend resources to remove it.
 
-If the enemy wants to kill Ragnaros with their own minions, Ragnaros will retaliate back.
+You can also manage the downside by taking actions to eliminate the smallest targets, leaving only large minions, or even the opponent's face, open for Ragnaros to blast. This aspect of Ragnaros helps to make it not pure random chance. Yes, you can't control what Raganaros will ultimately deal damage to, but you can narrow down the pool of targets by taking other actions on your turn to eliminate smaller threats, and instead direct your free eight points of damage to larger, more valuable targets.
 
 The design of its ability, and the random nature, led to moments of tension, joy, and frustration. There are many clips online showing the build up to a scenario that leads to an XX% chance of winning, then hearing's Ragnaros's voicelike, "BY FIRE BE PURGED!", then watching the fireball go to the opponent's face and close out the game.
 
@@ -60,15 +74,15 @@ One important aspect of this ability is that it works best in a digital environm
 
 Ragnaros's ability has a hidden upside as well. For context, one ability in Hearthstone is called *Silence* -- you can remove a card's textbox or ongoing abilities. Normally, for a card with a strong ability, this would be great. However, if you silence Ragnaros, yes you will stop eight damage coming at you every turn, but now it can attack again, meaning that it's now an everyday 8/8.
 
-Note: Yes, the image shown and the current version of the card in Hearthstone has a minion type of *Elemental*. This was added in a later update, and was not present upon its initial release. I'll eschew analysis of the minion type for now, so that we can talk about minion typal mechanic and other  in more detail later.
-
-Flavorwise, the mechanics capture the feeling of summoning a powerful firelord. It's strong, it's tempermental, it's passionate, and it's probably not going to listen to you.
+## The Lore of Ragnaros
+Flavorwise, the mechanics capture the feeling of summoning a powerful firelord. It's strong, it's temperamental, it's passionate, and it's probably not going to listen to you.
 
 In the lore of Warcraft, a faction of dwarves summoned Ragnaros in an attempt to use it in their ongoing war. This quickly backfired and Ragnaros subjugated this faction of dwarves to serve his whims.
 
 Ragnaros, the Firelord as a Hearthstone card won't turn on you in quite the same fashion, but it is made clear that it won't listen to you and you can't issue it commands.
 
+## Conclusion
 Ragnaros, the Firelord left quite an impression on players and designers. It's come back in a few different cards, though none quite as popular or impactful as the original. In fact, I recently signed up for a new free-to-play Hearthstone account, and my first deck had a copy of Ragnaros on it.
 
-Its strength, flavor, and the ability to close out games in style led to Ragnaros seeing play in many decks. And it helped Hearthstone land on the scene with a bang.
+Its strength, flavor, and the ability to close out games in style led to Ragnaros seeing play in many decks. It helped Hearthstone land on the scene with a bang. And it's just plain fun.
 
