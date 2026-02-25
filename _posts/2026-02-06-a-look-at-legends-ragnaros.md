@@ -18,6 +18,7 @@ Each class had access to 25 unique class cards, but only one legendary. If a pla
 
 It is from this pool of neutral legendary cards that we come to meet Ragnaros the Firelord.
 
+## Flavor
 The name and art of this card, as well as its legendary frame, tell the player that this entity is powerful. A formal name followed by a title can communicate that a card is a known figure of renown. For what it's, *Firelord* is a pretty awesome title.
 
 The art does an amazing job of showing this lord in action. The pose has a fluid sense of motion, like he's about to bring his hammer down. The massive proportions of the chest, arms, hands, and hammer help show that Ragnaros is an absolute titan. Also he's engulfed in flames. Or, rather, composed of flames.
@@ -36,6 +37,7 @@ On the other hand, the number 7 used multiple times is associated with gambling 
 
 Here, the number 8 stands out because it is quite a large number. Keep in mind that the ceiling for a card's mana cost in Hearthstone is 10 (unless there is a card designed with a cost reduction mechanic, like Molten Giant).
 
+## Gameplay
 Let's talk about Ragnaros's abilities. So far, we have a gigantic fire titan swinging its hammer down, and we have defined in the game system that this is an expensive and strong monster.
 
 *Can't attack*. 
@@ -60,8 +62,7 @@ One important aspect of this ability is that it works best in a digital environm
 
 Ragnaros's ability has a hidden upside as well. For context, one ability in Hearthstone is called *Silence* -- you can remove a card's textbox or ongoing abilities. Normally, for a card with a strong ability, this would be great. However, if you silence Ragnaros, yes you will stop eight damage coming at you every turn, but now it can attack again, meaning that it's now an everyday 8/8.
 
-Note: Yes, the image shown and the current version of the card in Hearthstone has a minion type of *Elemental*. This was added in a later update, and was not present upon its initial release. I'll eschew analysis of the minion type for now, so that we can talk about minion typal mechanic and other  in more detail later.
-
+## The Lore of Ragnaros
 Flavorwise, the mechanics capture the feeling of summoning a powerful firelord. It's strong, it's tempermental, it's passionate, and it's probably not going to listen to you.
 
 In the lore of Warcraft, a faction of dwarves summoned Ragnaros in an attempt to use it in their ongoing war. This quickly backfired and Ragnaros subjugated this faction of dwarves to serve his whims.

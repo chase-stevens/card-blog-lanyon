@@ -65,6 +65,7 @@ Sire of Seven Deaths is basically an unstoppable beast in combat. It achieves th
 
 In contrast, Hearthstone is much more economical with its ability descriptions. The cards when presented only have keywords and brief abilities. Hearthstone does have an added benefit of always having tooltips to explain abilities, since it's a digital game.
 
+## Elegance in Contrast
 The ironic part is that the TITANS set also introduced one of the more well designed digital-first card mechanics in Forge.
 
 <div class="double-line-wrapper">
@@ -78,6 +79,7 @@ Forge is a great mechanic because it's simple, but adds a new dimension to the c
 
 The art and UX team hit a home run with Forge. When you drag the card over your deck to forge it, a hammer falls and the card transforms its art into its forged version. Forging a card feels good.
 
+## Could Titans Work In Another Design?
 On that note, let's revisit the Titans design and try to be constructive. How could Titans in Hearthstone be reworked to be clearer?
 
 For one, I think they should not be minions at all. If they don't attack, unless all their abilities are gone, what if we simply make them not minion? Instead, they would be a new card type, akin to calling upon a powerful ally to work alongside you to help you turn the tide of battle. Once their abilities run out, they could leave the battlefield. The player who played them would ideally still be able to feel they got value of their card, since they got three powerful abilities.

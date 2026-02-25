@@ -14,6 +14,7 @@ Morphling is a five mana creature with sub-par stats. But don't let that fool yo
 
 Morphling's origin story goes that during the design of the Urza's block set, a collection of cards from the early days of Magic, the Rules team couldn't figure out how to make a card that cloned another card worked with the current rules. The problem was that the art for the clone card was already commissioned, so the design team had to come up with something quick. The end result was Morphling.
 
+## Analysis
 When we analyze the card, the first thing that jumps out is that all of the abilities of Morphling have a cost to turn them on.
 
 What if this was printed with permanent abilties like Flying, Vigilance, Shroud, and had its Morphing ability be free? Something like `0: This creatures gets +1/-1 or -1/+1 until end of turn`? It would certainly be stronger. It would probably also cost more mana to cast, which could make it less playable. 
@@ -28,6 +29,8 @@ Let's say a player taps five of their six islands to cast and resolve Morphling 
 
 Resulting in 48 different states for Morphling simply by activating its abilities. Hence the Morph of Morphling -- this card can shapeshift into whatever is needed for the situtation.
 
+
+## History
 As much heap and praise as I want to place upon Morphling, I do admit that it is not the first creature to have a shifting stat line. It appears that a six mana green create named Shambling Stride, printed in 1995, allowed exchanging 1 toughness for 1 power for a red and a green mana. It has nowhere near the flexibility and fun of Morphling, but it did allow for a bigger punch if left unchecked.
 
 Phantasmal Fiend, printed in 1996, has more flexibility. Playable for four mana, one being black, it enters the battlefield with a statline of 1/5. You can pay one black mana to do +1/-1, making it a 2/4, then a 3/3, or you could pay one and a blue to swap its power and toughness until end of turn. Now we have a creature that can shapeshift, albeit in an unwieldy fashion. If you want a 2/4, you pay one black. If you want a 5/1, you pay one and a blue. But what if you wanted a 4/2? Do you pay one black to make a 2/4, then pay one and a blue to invert? Or do you pay three black to simply shift three times? I believe that the creature in this form creates unnecessary complexity, and is not fun.
