@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Two Types of Cards - Permanents and Actions
-published: true
+published: false
 ---
 
 People think that card games are complicated, but there's really only two types of cards -- permanents and actions.
