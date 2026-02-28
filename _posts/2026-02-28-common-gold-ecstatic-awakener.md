@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Celebrating the Commons - Ecstatic Awakener
+title: A Shiny Copper - Ecstatic Awakener
 published: true
 ---
+Welcome to *A Shiny Copper*, where we look at cards at common rarity that have a great design.
+
 Let's take a look at one of my favorite common cards in Magic the Gathering -- Ecstatic Awakener // Awoken Demon.
 
 <div class="triple-double-wrapper">
