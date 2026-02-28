@@ -15,7 +15,7 @@ People think that card games are complicated, but there's really only two types 
 
 Many different card games have many different types of cards. Creatures, minions, spells, instants, sorceries, monsters, heroes, traps, locations, enchantments, planeswalkers, artifacts. Keeping track of all of them is enough to make your head spin.
 
-Don't worry, though. If you cut through the noise, you'll quickly find that a card is either a permanent, or a spell.
+Don't worry, though. If you cut through the noise, you'll quickly find that a card is either a permanent, or an action.
 
 ## Permanent
 A permanent is something that sticks around on the field when you play it. Take our friend Swab Goblin here.
@@ -50,6 +50,6 @@ On the other hand, a card can be an action that makes permanents. Here's Krenko'
 
 ![Krenko's Command](/assets/images/2026-03-09-permanents-vs-spells/m13-139-krenko-s-command.png){:.my-class}
 
-Here, we have an action that has an effect to make permanents.
+Here, we have an action that has an effect to make permanents. When you play Krenko's Command, you do the effect and discard the card, but the end result is that you have permanents on your side of the fiend.
 
 ## Conclusion
