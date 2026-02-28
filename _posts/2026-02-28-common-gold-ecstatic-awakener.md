@@ -5,9 +5,9 @@ published: true
 ---
 Let's take a look at one of my favorite common cards in Magic the Gathering -- Ecstatic Awakener // Awoken Demon.
 
-<div class="double-line-wrapper">
-  <img src="/assets/images/2026-02-25-common-gold-ecstatic-awakener.md/mid-100-ecstatic-awakener.png" alt="Ecstatic Awakener">
-  <img src="/assets/images/2026-02-25-common-gold-ecstatic-awakener.md/mid-100-awoken-demon.png" alt="Awoken Demon">
+<div class="triple-double-wrapper">
+  <img class="my-class" src="/assets/images/2026-02-25-common-gold-ecstatic-awakener.md/mid-100-ecstatic-awakener.png" alt="Ecstatic Awakener">
+  <img class="my-class" src="/assets/images/2026-02-25-common-gold-ecstatic-awakener.md/mid-100-awoken-demon.png" alt="Awoken Demon">
 </div>
 
 <!--more-->
