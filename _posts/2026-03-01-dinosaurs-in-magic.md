@@ -117,6 +117,15 @@ Creature - Dinosaur
 Menace
 When this creature enters, you may exile up to three creature cards from a graveyard. This create enters with a +1/+1 counter for each creature card exiled.
 
+
+CARDNAME (Baby TREX)
+{G}
+Creature - Dinosaur
+1/1
+Whenever another creature dies, put a +1/+1 counter on this creature.
+This creature has trample as long as its power is 4 or greater.
+
+
 CARDNAME (Gore)
 3G
 Instant
@@ -142,6 +151,14 @@ CARDNAME (Hunting Tyrannosaurus)
 Creature - Dinosaur
 5/5
 When this creature enters, you may have it fight target creature you don’t control. If that creature dies, CARDNAME gains haste until end of turn
+
+
+CARDNAME (Packmate)
+2R
+Creature - Dinosaur
+3/1
+This creature has flash if you have another dinosaur creature that you control.
+First Trike
 
 ====================================
 
@@ -191,12 +208,7 @@ On the start of your upkeep, choose a kind of counter at random that this creatu
 
 NOTE: This is A) Busted and B) Wordy as hell. Cut down on number of abilities? Or
 
-CARDNAME (Baby TREX)
-{G}
-Creature - Dinosaur
-1/1
-At the start of combat on your turn, put a +1/+1 counter on this creature.
-This creature has trample as long as its power is 4 or greater.
+
 
 Token doubling?
 
