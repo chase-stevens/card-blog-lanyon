@@ -239,6 +239,11 @@ img.my-class {
   margin: 0 auto;
 }
 
+img.my-class-small {
+  max-width: 15rem;
+  margin: 0 auto;
+}
+
 img.double-line {
   display: inline-block;
   max-width: calc(50% - 0.63rem);
