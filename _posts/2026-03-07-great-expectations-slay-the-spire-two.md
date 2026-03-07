@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Great Expectations of Slay the Spire 2 
-published: false
+published: true
 ---
 
 Slay the Spire 2 came out on Thursday. I haven't played it at all.
@@ -57,7 +57,7 @@ Card games have another element that helps keep gameplay fresh over time -- rand
 
 Trading card games must keep their rules fairly consistent so as to not make older cards invalid, but video games that are self contained can introduce new mechanics and systems.
 
-Warcraft 3 had better graphics and used new technology, but many of its innovations come from gameplay mechanics and design rather than tech. The move from two symmetrical factions to four asymmetrical factions could have been done in the 90s, as Blizzard did with Starcraft (albeit with three factions rather than four). The hero system in Warcraft 3 did not require four times as much RAM -- from a data perspective, you probably have to store a few kilobytes more data for a hero unit than for a regular run of the mill grunt. However, the hero system proved to be one of the best mechanics of Warcraft 3, and influced many popular games to come, like World of Warcraft and League of Legends.
+Warcraft 3 had better graphics and used new technology, but many of its innovations come from gameplay mechanics and design rather than tech. The move from two symmetrical factions to four asymmetrical factions could have been done in the 90s, as Blizzard did with Starcraft (albeit with three factions rather than four). The hero system in Warcraft 3 did not require four times as much RAM -- from a data perspective, you probably have to store a few kilobytes more data for a hero unit than for a regular run of the mill grunt. However, the hero system proved to be one of the best mechanics of Warcraft 3, and influenced many popular games to come, like World of Warcraft and League of Legends.
 
 ## Conclusion
 Perhaps the question we should be asking isn't whether Slay the Spire 2 can achieve as much as Slay the Spire did. We can instead ask whether or not Slay the Spire 2 would be worth consumers' time and money.
