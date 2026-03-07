@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Great Expectations of Slay the Spire 2 
-published: false
+published: true
 ---
 
 Slay the Spire 2 came out on Thursday. I haven't played it at all.
