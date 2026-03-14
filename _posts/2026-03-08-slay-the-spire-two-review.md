@@ -10,10 +10,9 @@ Slay the Spire 2 is out, and it's already a hit. Let's talk about how Mega Crit 
 
 <!--more-->
 
-Slay the Spire 2 closely mirrors its predecessor. No one would accuse Slay the Spire 2 of deviating from the core gameplay the Slay the Spire set forth.
+Slay the Spire 2 keeps the same system as the first Slay the Spire. You'll pick a character with a unique set of cards, fighting enemies, adding cards to your deck, and trying to beat the boss at the end of each level.
 
 What makes it work as a sequel is that every part of that system has new content -- new enemies, elites, relics, cards from existing classes, new classes, new events, etc. Players of the original can hop right in and face new challenges and solve new puzzles.
-
 
 #### Old Dog, New Tricks
 There are a lot of graphical improvements. When you play a card, your character does an animation. You play a strike? The Ironclad swings their sword. This is a step up from the first game, where your character would simply slide towards the enemy.
@@ -24,22 +23,36 @@ Each one of these classes will be familiar from the get go. However, they've all
 
 Returning players who pick up a familiar class will notice the improved graphics and animations immediately, and will be given new challenges and opportunities to prove themselves in combat with new cards and strategies to play with.
 
-[[IMAGE]]
 #### New Classes
 Slay the Spire 2 introduces two new classes. The Regent is a regal lord from outer space, and The Necrobinder is an undead lich who has a helpful bone hand minion named Osty to help out on the battlefield. Both of these characters carve out new design space in Slay the Spire and have different playstyles and builds.
 
+![The Regent Gameplay](/assets/images/2026-03-14-slay-the-spire-two-review/regent-gameplay.avif)
 The Regent has an alternate cost system called Stars. You start each battle with three Stars, and can gain more through playing certain cards.
 
 The Regent also has a mechanic called Forge. Each card with this mechanic will have Forge X, where X is a number like 6. The first time you forge in a battle, you add a card called Sovereign Blade. It costs 2 energy, deals an amount of damage equal to a base amount plus however much you've forged that battle, and has Retain, so it stays in your hand.
 
-The Necrobinder has some new mechanics. The Necrobinder has its own minion, Osty the bone hand. Osty starts each battle at 1/1 HP. At the start of your turn, you'll add one to Osty's max and current health. You can also add more health to Osty by playing cards with Summon. When you play a card thats says Summon X (where X is a number like 6), you add that much to Osty's max and current health.
+I enjoy playing as The Regent, but I think that the secondary resources of Stars could use some inspiration as well. In its current state, it feels like just another number to track. Secondary resources should have some weight. You should feel happy when you obtain them, and appreciate the reward when you spend them.
 
-Osty acts as a shield of sorts -- when damage comes through to the Necrobinder, first your amor will take damage, then Osty will take damage, and then finally, your character will take damage.
+<div class="triple-double-wrapper">
+  <img class="my-class" src="/assets/images/2026-03-14-slay-the-spire-two-review/mh3-75-tune-the-narrative.jpg" alt="Tune the Narrative">
+  <img class="my-class" src="/assets/images/2026-03-14-slay-the-spire-two-review/mh3-50-aether-spike.jpg" alt="Aether Spike">
+  <img class="my-class" src="/assets/images/2026-03-14-slay-the-spire-two-review/kld-106-aethertorch-renegade.jpg" alt="Aethertorch Renegade">
+</div>
+
+One of my favorite secondary resources in card games is Energy in Magic the Gathering. Energy works in a similar way where some cards generate Energy, and some cards spend Energy. One main difference is in themeing -- in Magic cards with Energy, you can often feel how the Energy is amping up the card. Another difference is that Energy is not typically used as a requirement cost, but rather as a way to amplify the effects of a card. You can play a card without spending Energy, but it would be noticeably weaker. Cards with Energy usually have ways of enabling themselves as well, but if you have spare energy, you can spend more for a better effect. Conversely, if you don't like the cards effect, you can use it as a way to bank up Energy for later.
+
+If Stars were used as a way to amplify cards, as opposed to being a cost to play a card, it could have a mechanically different role and feel from the other main cost to cards.
+
+![Necrobinder Gameplay](/assets/images/2026-03-14-slay-the-spire-two-review/necrobinder-gameplay.avif)
+The Necrobinder has some new mechanics as well. The Necrobinder has its own minion, Osty the bone hand. Osty starts each battle at 1/1 HP. At the start of your turn, you'll add one to Osty's max and current health. You can also add more health to Osty by playing cards with Summon. When you play a card thats says Summon X (where X is a number like 6), you add that much to Osty's max and current health.
+
+Osty acts as a shield of sorts -- when damage comes through to the Necrobinder, first your armor will take damage, then Osty will take damage, and then finally, your character will take damage.
 
 The Necrobinder also has access to one of my favorite new mechanics, Souls. You can add Soul cards to your deck through other card effects. A Soul card has 0 cost, draws two cards, and is then exhausted. There are cards that synergize with Souls, like Haunt, which triggers to deal damage whenever you play a soul, or Soul Storm, which is an attack that deals bonus damage for each soul you've used in that combat.
 
+For me, The Necrobinder is a slam dunk. You have a new character that looks great and mechanics that match that flavor. You think about defense differently with your minion, and you have access to a whole new bevy of strategies for combat.
 
-[[IMAGE]]
+![Slay the Spire 2 Epochs](/assets/images/2026-03-14-slay-the-spire-two-review/Epoch-timeline-STS2.webp)
 #### Epoch System -- Joining Unlocks and Narrative Together
 One of my core beliefs is that card games struggle to deliver an ingame narrative experience. Cards can do a great job at depicting a world and give us a snapshot of characters in that world, but it can be hard to show these characters overcoming obstacles and going through change.
 
