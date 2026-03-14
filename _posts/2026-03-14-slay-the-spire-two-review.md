@@ -50,7 +50,7 @@ Osty acts as a shield of sorts -- when damage comes through to the Necrobinder, 
 
 The Necrobinder also has access to one of my favorite new mechanics, Souls. You can add Soul cards to your deck through other card effects. A Soul card has 0 cost, draws two cards, and is then exhausted. There are cards that synergize with Souls, like Haunt, which triggers to deal damage whenever you play a soul, or Soul Storm, which is an attack that deals bonus damage for each soul you've used in that combat.
 
-For me, The Necrobinder is a slam dunk. You have a new character that looks great and mechanics that match that flavor. You think about defense differently with your minion, and you have access to a whole new bevy of strategies for combat.
+For me, The Necrobinder is a slam dunk. You have a new character that looks great and mechanics that match that flavor. You think about defense differently with your minion, and you have access to a bevy of strategies for combat.
 
 ![Slay the Spire 2 Epochs](/assets/images/2026-03-14-slay-the-spire-two-review/Epoch-timeline-STS2.webp)
 #### Epoch System -- Joining Unlocks and Narrative Together
@@ -62,7 +62,9 @@ Slay the Spire 2 has attempted to crack the narrative and worldbuilding through 
 
 You can click to unlock the Epoch, where you'll be presented with a short story and an illustration that reveals more about a character or the Spire itself. Then you'll be presented with more relics, cards, or characters that you can meet on your run that will appear in later runs.
 
-It's a nice twist on the unlock system that gradually gives players more content, while also helping to reveal more about the world of Slay the Spire. There's built in narrative pacing, and at any point, the player can experience each epoch in a linear fashion by goin through each epoch from first to last.
+It's a nice twist on the unlock system that gradually gives players more content, while also helping to reveal more about the world of Slay the Spire. There's built in narrative pacing, and at any point, the player can experience each epoch in a linear fashion by going through each epoch from first to last.
+
+Right now, some of the Epoch artwork has placeholder art (the game is technically in Early Access, even though it feels like a finished game), so it's hard to judge the overall effect. However, the Epochs with finished art are evocative and allow you to connect to your character. I can't wait to see the finished product.
 
 #### Conclusion
 Slay the Spire 2 shows that a good game system, along with many mechanics and good design, can keep players entertained for hours upon hours over multiple games. It doesn't reinvent the wheel, but it does make every part of the wheel better. With new classes, cards, relics, enemies, and bosses, Slay the Spire 2 will keep players entertained and have them slaying to their heart's content.
