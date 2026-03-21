@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Designing Dinosaur Cards
-published: false
+published: true
 ---
 Dinosaurs are awesome! Let's take a look at the design of some dinosaur cards, and see if we can't come up with some new ones of our own.
 
