@@ -28,7 +28,7 @@ The winner got their own card design made as a real Magic the Gathering card.
 Jens submitted their card design as follows.
 ```
 Forestfolk
-2{G}{B}
+2{G}{U}
 Creature - Elf Wizard
 2/2
 When Forestfolk comes into play, you may search your library for a basic land card and put that card into play tapped. Then shuffle your library.
