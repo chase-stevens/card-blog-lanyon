@@ -2,6 +2,7 @@
 layout: post
 title: A Look at Legends - Solemn Simulacrum
 published: true
+image: /assets/images/2026-03-28-a-look-at-legends-solemn-simulacrum/m21-319-solemn-simulacrum.png
 ---
 
 Today, I want to take a look at Solemn Simulacrum, a card in Magic the Gathering with a great story, and one that has stood the test of time. Why does it stir our hearts? Why does it work as a card?
