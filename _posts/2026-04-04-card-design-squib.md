@@ -16,7 +16,7 @@ Today, I want to share how I designed and printed cards for a game design I made
 
 Monster Kitchen is a 3-6 player game where players complete to collect ingredients and recipes to make dishes. And some of the ingredients are monster parts.
 
-The game has gone through a few iterations. Any game design will over the course of its life. In some versions, players competed to feed dishes to diners. In others, the players had characters that they played as and that had special abilies. In versions where no mechanics were added or cut, different cards would be tested and tweaked.
+The game has gone through a few iterations. Any game design will over the course of its life. In some versions, players competed to feed dishes to diners. In others, the players had characters that they played as and that had special abilities. In versions where no mechanics were added or cut, different cards would be tested and tweaked.
 
 If you want to make a game, it is critical that you are able to rapidly iterate. You need to be able to incorporate feedback and make adjustments to fix things that are broken with your game. And yes, no matter how good of a designer you are, the first version of your game will probably be broken in one way or another.
 
@@ -78,7 +78,7 @@ illustration:
 
 For each element on the card, we want to give it all its styling rules with one grouping. Our illustration has a position (x, y) and a size (width/height).
 
-Our text element have a position and size as well. However, this position and sizing is for determining the size of the text box, not the actual text the appears on the page. For that, we want to make sure that we align our text accordingly. The `align` styling here shifts the text to align with the left, center, or right of the textbox, and `valgin` (vertical align -- not used here but good to be aware of) can be used to align the text with the top, middle, or bottom of the textbox.
+Our text element have a position and size as well. However, this position and sizing is for determining the size of the text box, not the actual text the appears on the page. For that, we want to make sure that we align our text accordingly. The `align` styling here shifts the text to align with the left, center, or right of the textbox, and `valign` (vertical align -- not used here but good to be aware of) can be used to align the text with the top, middle, or bottom of the textbox.
 
 ```yml
 illustration:
