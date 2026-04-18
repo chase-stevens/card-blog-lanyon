@@ -1,14 +1,16 @@
 ---
 layout: post
-title: "Sorcery: Contested Realms, or How To Make A Better Magic"
+title: "Sorcery: Contested Realm, or How To Make A Better Magic"
 published: true
 ---
 
 A lot of designers look at Magic: The Gathering and say "Hey, I could make a better version of that!"
 
+One game studio, Erik's Curiosa Limited, did just that and launched the trading card game Sorcery: Contested Realm with a Kickstarter campaign raising over $4 million.
+
 Let's take a look at the best example of a Magic: The Gathering inspired game designed for a contemporary audience.
 
-![Sorcery: Contested Realms](/assets/images/2026-04-11-sorcery-contested-realms/sorcery-contested-realm.webp){:.my-class}
+![Sorcery: Contested Realm](/assets/images/2026-04-11-sorcery-contested-realms/pic6766750.webp)
 
 <!--more-->
 
@@ -19,7 +21,7 @@ Let's take a look at the best example of a Magic: The Gathering inspired game de
   <img class="my-class" src="/assets/images/2026-04-11-sorcery-contested-realms/got-gibbous_nightgaunts-b-s.webp" alt="Gibbous Nightgaunts, a Sorcery: Contested Realm card">
 </div>
 
-Sorcery: Contested Realms works with a lot of amazing artists. They do all their art traditionally -- no digital art. The result makes each card feel like a magical spell.
+Sorcery: Contested Realm works with a lot of amazing artists. They do all their art traditionally -- no digital art. The result makes each card feel like a magical spell.
 
 Each card is full art and jumps off the page. The artists showcase their talents and make dazzling pieces that make for great cards to play.
 
@@ -30,9 +32,7 @@ Each card is full art and jumps off the page. The artists showcase their talents
   <img class="my-class" src="/assets/images/2026-04-11-sorcery-contested-realms/bet-gyre_hippogriffs-b-s.webp" alt="Gyre Hippogriffs, a Sorcery: Contested Realm card">
 </div>
 
-The good news is that Sorcery: Contested Realms cards are easy to read. The bad news is that Sorcery: Contested Realms cards can often lead to ambiguity when interacting with each other.
-
-Sorcery uses keywords a great deal and you'll want your rulebook nearby as you play your first game.
+The good news is that Sorcery: Contested Realm cards are easy to read. The bad news is that Sorcery: Contested Realm cards can often lead to ambiguity when interacting with each other. Sorcery uses keywords a great deal and you'll want your rulebook nearby as you play your first game.
 
 Erik's Curiosa, the company that makes Sorcery, has a good online resource at curiosa.io where you can lookup cards that have references to their rulestext.
 
@@ -40,9 +40,16 @@ I will admit that the game does have a learning curve when it comes to learning 
 
 
 ### They Finally Fixed Lands
+<div class="triple-double-wrapper">
+  <img class="my-class" src="/assets/images/2026-04-11-sorcery-contested-realms/bet-spring_river-b-s.webp" alt="Spring River, a Sorcery: Contested Realm card">
+  <img class="my-class" src="/assets/images/2026-04-11-sorcery-contested-realms/bet-rustic_village-b-s.webp" alt="Rustic Village, a Sorcery: Contested Realm card">
+  <img class="my-class" src="/assets/images/2026-04-11-sorcery-contested-realms/bet-lone_tower-b-s.webp" alt="Lone Tower, a Sorcery: Contested Realm card">
+</div>
+
+
 One of the biggest pain points of playing Magic: The Gathering is that due to the land system, you can not get the right cards to play the game.
 
-Sorcery: Contested Realms has fixed this issue by separating lands and spells into separate decks. At the start of your turn, you can choose to draw a card from your spell deck, or your site deck.
+Sorcery: Contested Realm has fixed this issue by separating lands and spells into separate decks. At the start of your turn, you can choose to draw a card from your spell deck, or your site deck.
 
 Additionally, there are restrictions by types of lands, but luckily, it's easier to meet the land requirements. Instead of tapping lands to generate colored mana, each land gives you one mana during your turn. Your lands do have an element, which works like a color. But you don't need to tap for a color of mana -- as long as you have enough lands with the same "threshold" of your card, you can play that card.
 
@@ -68,7 +75,7 @@ All avatars have 20 life, some power, a tap ability to play or draw a site, and 
 
 Choosing an avatar gives you a chance to put yourself in the game. It's no coincidence that one of Magic's most popular formats is Commander, where you choose a legendary creature to captain your deck. Sorcery takes this design space to provide players a chance to tell everyone who they are with their avatar.
 
-### The WinMore and FeelsBad Mechanics are minimized
+### You Don't Get Combo'd Out or Counterspelled
 Sorcery limits mechanics from Magic that make the game feel one sided or not fun. Graveyard recursion does exist in some form but is not the end all be all of mechanics.  There are no game winning combos that close the game out immediately. You don't worry about losing out of nowhere. And you'll never get a counter spell to stop you from playing your cool card.
 
 <div class="triple-double-wrapper">
@@ -80,7 +87,7 @@ Don't get me wrong. There are some cards that do crazy things. Lilith can summon
 
 
 ### Rarer Cards are more Limited
-Sorcery: Contested Realms has a rarity system for its card. A card can be Ordinary, Exceptional, Elite, or Unique. However, this also limits how many copies of each card you can put into your deck. You can put four copies of an Ordinary card into your deck, three copies of an Exceptional, two copies of an Elite, or one copy of a Unique.
+Sorcery: Contested Realm has a rarity system for its card. A card can be Ordinary, Exceptional, Elite, or Unique. However, this also limits how many copies of each card you can put into your deck. You can put four copies of an Ordinary card into your deck, three copies of an Exceptional, two copies of an Elite, or one copy of a Unique.
 
 <div class="triple-double-wrapper">
   <img class="my-class" src="/assets/images/2026-04-11-sorcery-contested-realms/got-black_mass-b-s.webp" alt="Black Mass, a Sorcery: Contested Realm card">
@@ -93,4 +100,4 @@ This change in the rarity system both allows for collectors to chase after their
 ### It Feels Magical
 The art, avatar, templating, and rare cards all come together to make a game of Sorcery feel like you are having a magical battle against your opponent. That might seem obvious, but we live in a world where the last set of Magic the Gathering was Teenage Mutant Ninja Turtles, and the next one is a Marvel superheroes set.
 
-I play games for many reasons. Getting an opportunity to escape from our current reality into a fantasy where I get to lead a magical army into battle is one of them.
+I play games for many reasons. Getting an opportunity to escape from our current reality into a fantasy where I get to lead a magical army into battle is one of them. Sorcery takes this experience from classic Magic the Gathering and reshapes it using all the game design lessons we've collectively learned in the last thirty years to make an exciting card game that I'll be happy to play for years to come.
