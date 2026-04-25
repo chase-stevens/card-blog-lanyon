@@ -2,7 +2,7 @@
 layout: post
 title: "A Balancing Act - Making a Balanced and Fair Game"
 published: true
-image: /assets/images/2026-04-25-balancing-act/mh3-131-powerbalance.png
+image: /assets/images/2026-04-25-balancing-act/mh3-131-powerbalance-header.png
 ---
 
 One hurdle in making a game that every designer must overcome is balancing their game to make sure that there are no grossly overpowered strategies.
