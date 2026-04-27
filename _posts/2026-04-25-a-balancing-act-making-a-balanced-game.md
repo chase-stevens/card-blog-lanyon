@@ -111,18 +111,18 @@ Wait a minute -- this isn't an equal value equation! Azure Drake has 12 value po
 ### It's Not Gonna Be Perfectly Balanced
 It's okay to have a game that's not totally balanced. It's also probably not possible to have a completely balanced game. Plus, balance can change over time as new strategies develop.
 
-Let's take a look at Sen'jin Shieldguard against Booty Bay Brawler.
+Let's take a look at Sen'jin Shieldmasta against Booty Bay Brawler.
 
 <div class="double-line-wrapper">
   <img src="/assets/images/2026-04-25-balancing-act/senjin-shieldmasta.png" alt="Sen'jin Shieldmasta, a Hearthstone Card">
   <img src="/assets/images/2026-04-25-balancing-act/booty-bay-bodyguard.png" alt="Booty Bay Bodyguard, a Hearthstone Card">
 </div>
 
-The Sen'jin Shieldguard costs 4 mana, meaning that it can get 9 points of value. It has 3 Attack, 5 Health, and the ability Taunt. We can write its value expression at `2 * 4 + 1 = 8 + Taunt`.
+The Sen'jin Shieldmasta costs 4 mana, meaning that it can get 9 points of value. It has 3 Attack, 5 Health, and the ability Taunt. We can write its value expression at `2 * 4 + 1 = 8 + Taunt`.
 
-The Booty Boy Bodyguard costs 5 mana for 11 points of value. It has 5 Attack, 4 Health, and the ability Tault. We can write its value expression as `2 * 5 + 1 = 9 + Taunt`.
+The Booty Bay Bodyguard costs 5 mana for 11 points of value. It has 5 Attack, 4 Health, and the ability Tault. We can write its value expression as `2 * 5 + 1 = 9 + Taunt`.
 
-But wait a minute -- if we take a closer look, these cards are not equally balanced. Sen'jin Shieldguard only uses 1 value point to get Taunt, while Booty Bay Bodyguard uses 2 value points to get Taunt. If Booty Bay Bodyguard were balanced like Sen'jin Shieldmasta, then it would have 5 Attack and 5 Health.
+But wait a minute -- if we take a closer look, these cards are not equally balanced. Sen'jin Shieldmasta only uses 1 value point to get Taunt, while Booty Bay Bodyguard uses 2 value points to get Taunt. If Booty Bay Bodyguard were balanced like Sen'jin Shieldmasta, then it would have 5 Attack and 5 Health.
 
 This isn't an oversight. Some cards can simply be better than others. It's okay! In fact, Hearthstone game director Ben Brode specifically said that a game can have bad cards.
 
@@ -130,7 +130,7 @@ This isn't an oversight. Some cards can simply be better than others. It's okay!
 
 The reason for this is that we want players to be rewarded for analyzing cards. If every card is perfectly balanced, then it might not matter what you play. But if you have some cards that are slightly more powerful than others, then players who spend their time thinking and analyzing your game can find better cards, and are rewarded.
 
-To be clear, we don't want to have cards or strategies that are so strong that they blow everything else out of the water. In our example above, Sen'jin Shieldguard only has one extra value point above its comparison, Booty Bay Brawler. If Sen'jin Shieldguard had 5 Attack, 4 Health, and Taunt for 4 mana, then there would never be any reason to play Booty Bay Brawler, and we'd say Sen'jin Shieldguard is overpowered. 
+To be clear, we don't want to have cards or strategies that are so strong that they blow everything else out of the water. In our example above, Sen'jin Shieldmasta only has one extra value point above its comparison, Booty Bay Brawler. If Sen'jin Shieldmasta had 5 Attack, 4 Health, and Taunt for 4 mana, then there would never be any reason to play Booty Bay Brawler, and we'd say Sen'jin Shieldmasta is overpowered.
 
 ### Your Job Is To Make A Fun Game
 Remember, at the end of the day, your job as a game designer is to evoke an emotion or experience in your players. Your game is a tool for your players to interact with to feel that experience that you envisioned.
