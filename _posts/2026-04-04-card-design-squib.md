@@ -2,6 +2,7 @@
 layout: post
 title: Rapid Card Prototyping with Squib
 published: true
+image: /assets/images/2026-04-04-card-design-squib/ingredients_00.png
 ---
 
 In previous posts, we've looked at existing cards in card games like Magic the Gathering and Hearthstone. But what if we wanted to look at making our own card game?
