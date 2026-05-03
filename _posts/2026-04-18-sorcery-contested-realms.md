@@ -2,6 +2,7 @@
 layout: post
 title: "Sorcery: Contested Realm, or How To Make A Better Magic"
 published: true
+image: /assets/images/2026-04-11-sorcery-contested-realms/pic6766750.webp
 ---
 
 A lot of designers look at Magic: The Gathering and say "Hey, I could make a better version of that!"

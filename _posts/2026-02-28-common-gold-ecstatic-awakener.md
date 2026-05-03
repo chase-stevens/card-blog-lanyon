@@ -2,6 +2,7 @@
 layout: post
 title: A Shiny Copper - Ecstatic Awakener
 published: true
+image: /assets/images/2026-02-25-common-gold-ecstatic-awakener.md/mid-100-ecstatic-awakener.png
 ---
 Welcome to *A Shiny Copper*, where we look at cards at common rarity that have a great design.
 

@@ -2,6 +2,7 @@
 layout: post
 title: Slay the Spire 2 -- A Sequel that Keeps the Wheel Spinning
 published: true
+image: /assets/images/2026-03-14-slay-the-spire-two-review/slay_the_spire_art.avif
 ---
 
 Slay the Spire 2 is out, and it's already a hit. Let's talk about how Mega Crit made a worthy followup to arguably the best roguelike deckbuilder of all time.

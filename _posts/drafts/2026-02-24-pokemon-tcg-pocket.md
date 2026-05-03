@@ -27,7 +27,6 @@ What they do right
 - challenges easy enough to beat with any cards (Strategically)
 - rewards building multiple decks
 - ladder exists but is not the focus
-- auto battler
 
 ## Cracking Packs
 
