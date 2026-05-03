@@ -2,6 +2,7 @@
 layout: post
 title: The Great Expectations of Slay the Spire 2 
 published: true
+image: /assets/images/2026-03-07-great-expectations-slay-the-spire-two/slay-the-spire-2-header.jpg
 ---
 
 Slay the Spire 2 came out on Thursday. I haven't played it at all.

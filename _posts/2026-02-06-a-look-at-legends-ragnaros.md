@@ -2,6 +2,7 @@
 layout: post
 title: A Look At Legends - Ragnaros The Firelord
 published: true
+image: /assets/images/ragnaros-the-firelord.webp
 ---
 
 Let's talk about an iconic, legendary card that help kick off Hearthstone's launch -- Ragnaros the Firelord.

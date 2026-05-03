@@ -2,6 +2,7 @@
 layout: post
 title: Designing Dinosaur Cards
 published: true
+image: /assets/images/2026-03-15-dinosaurs-in-magic/fdn-718-gigantosaurus.png
 ---
 Dinosaurs are awesome! Let's take a look at the design of some dinosaur cards, and see if we can't come up with some new ones of our own.
 

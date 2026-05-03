@@ -2,6 +2,7 @@
 layout: post
 title: A Look at Legends - Morphling
 published: true
+image: /assets/images/usg-85-morphling.jpg
 ---
 
 Let's take a look at a legendary card from Magic the Gathering -- Morphling.

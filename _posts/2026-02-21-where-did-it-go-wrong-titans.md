@@ -2,6 +2,7 @@
 layout: post
 title: Reading The Card Does Not Explain The Card - Titans
 published: true
+image: /assets/images/norgannon-titan.png
 ---
 
 Let me ask you a question -- what does this card do?
