@@ -2,7 +2,7 @@
 layout: post
 title: A Shiny Copper - Ride the Lightning
 published: true
-image: /assets/images/2026-05-23-a-shiny-copper-riddle-of-lightning/tsr-183-riddle-of-lightning.png
+image: /assets/images/2026-05-23-a-shiny-copper-riddle-of-lightning/tsr-183-riddle-of-lightning-crop.png
 ---
 
 One of my favorite ways of playing Magic the Gathering is chaos draft. I love the variety and the joy of trying to put together cards from twenty plus different sets into one cohesive deck.
